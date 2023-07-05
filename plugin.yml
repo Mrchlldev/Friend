@@ -1,6 +1,6 @@
 name: Friend
 version: 0.1
-api: 4.0.0
+api: 5.0.0
 main: dhnnz\Friend\Loader
 src-namespace-prefix: dhnnz\Friend
 author: dhnnz
